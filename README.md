@@ -12,7 +12,7 @@ Currently, I'm focused on **Generative AI** systems, developing applications usi
 ### Tech Stack  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,django,docker,fastapi,react,nodejs,typescript,javascript,postgres,mongodb,mysql,redis,githubactions,bamboo,fastapi" />
+    <img src="https://skillicons.dev/icons?i=aws,django,docker,fastapi,react,nodejs,typescript,javascript,postgres,mongodb,mysql,redis,githubactions,fastapi"/>
   </a>
 </p>
 
