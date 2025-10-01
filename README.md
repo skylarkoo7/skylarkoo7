@@ -10,6 +10,7 @@ Right now I'm deep into **evals** and **observability**—figuring out how to me
 ## Projects
 
 **ActWise** – AI copilot for Indian law. Semantic search and Q&A over 48K+ legal documents that lawyers trust.
+
 **Repo Agent** – Automated GitHub issue management using AI. Reads code, understands context, suggests fixes.
 
 ## Contact
