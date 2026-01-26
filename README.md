@@ -17,7 +17,6 @@ Right now I'm deep into **evals** and **observability**—figuring out how to me
 
 **Email:** [work.neelharsola@gmail.com](mailto:work.neelharsola@gmail.com)  
 **LinkedIn:** [Neel Harsola](https://www.linkedin.com/in/neelharsola)  
-**GitHub:** [skylarkoo7](https://github.com/skylarkoo7)
 
 ---
 
