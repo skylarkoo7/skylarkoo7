@@ -4,21 +4,14 @@
 
 <br>
 
-```
- ██████╗ ██╗   ██╗██╗██╗     ██████╗ ██╗███╗   ██╗ ██████╗      █████╗ ██╗
- ██╔══██╗██║   ██║██║██║     ██╔══██╗██║████╗  ██║██╔════╝     ██╔══██╗██║
- ██████╔╝██║   ██║██║██║     ██║  ██║██║██╔██╗ ██║██║  ███╗    ███████║██║
- ██╔══██╗██║   ██║██║██║     ██║  ██║██║██║╚██╗██║██║   ██║    ██╔══██║██║
- ██████╔╝╚██████╔╝██║███████╗██████╔╝██║██║ ╚████║╚██████╔╝    ██║  ██║██║
- ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝     ╚═╝  ╚═╝╚═╝
-                    that doesn't suck.
-```
+<h3>building AI that doesn't suck.</h3>
 
 <br>
 
-[![Website](https://img.shields.io/badge/neelharsola.in-0d1117?style=for-the-badge&logo=safari&logoColor=58a6ff)](https://neelharsola.in)
-[![LinkedIn](https://img.shields.io/badge/neel%20harsola-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/neelharsola)
-[![Email](https://img.shields.io/badge/reach%20out-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:work.neelharsola@gmail.com)
+[![Website](https://img.shields.io/badge/neelharsola.in-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff)](https://neelharsola.in)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/neelharsola)
+[![Email](https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:work.neelharsola@gmail.com)
+[![GitHub](https://img.shields.io/badge/skylarkoo7-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skylarkoo7)
 
 </div>
 
@@ -68,7 +61,7 @@ Reads code. Understands context. Suggests fixes. Because triaging issues at 2 AM
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=092E20)
+![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=44B78B)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
 
@@ -76,12 +69,12 @@ Reads code. Understands context. Suggests fixes. Because triaging issues at 2 AM
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=1aad9b)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=1C3C3C)
 ![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=white)
 
 **infra & tools**
 
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
 ![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
