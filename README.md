@@ -27,31 +27,6 @@ Right now I'm deep into **evals** and **observability** — figuring out how to 
 
 <br>
 
-## `> cat projects.md`
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏛️ ActWise
-**AI copilot for Indian law**
-
-Semantic search and Q&A over 48K+ legal documents. Built for lawyers who need answers they can trust, not hallucinated citations.
-
-</td>
-<td width="50%">
-
-### 🤖 Repo Agent
-**Automated GitHub issue management**
-
-Reads code. Understands context. Suggests fixes. Because triaging issues at 2 AM shouldn't be a human's job.
-
-</td>
-</tr>
-</table>
-
-<br>
-
 ## `> ls tech-stack/`
 
 <div align="center">
