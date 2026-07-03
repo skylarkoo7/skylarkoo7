@@ -1,99 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=skylarkoo7&fontSize=80&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=what%20we%20know%20is%20a%20drop%2C%20what%20we%20don%27t%20know%20is%20an%20ocean&descSize=16&descColor=8b949e&descAlignY=55" width="100%"/>
+# Neel Harsola
 
-<br>
+Applied Research Engineer at Abundant
 
-<h3>building AI that doesn't suck.</h3>
+**I build the environments and benchmarks that train and evaluate AI coding agents.**
 
-<br>
-
-[![Website](https://img.shields.io/badge/neelharsola.in-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff)](https://neelharsola.in)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/neelharsola)
-[![Email](https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:work.neelharsola@gmail.com)
-[![GitHub](https://img.shields.io/badge/skylarkoo7-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skylarkoo7)
+[neelharsola.in](https://neelharsola.in) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/neelharsola) &nbsp;·&nbsp; [work.neelharsola@gmail.com](mailto:work.neelharsola@gmail.com)
 
 </div>
 
 <br>
 
-## `> whoami`
+## What I do
 
-I build with LLMs, RAG systems, and AI agents. Not the kind that demos well and breaks in prod. The kind that actually ships.
+I design long-horizon software-engineering tasks — multi-hour library reproductions,
+full-stack product clones, and ML builds — and the sandboxed environments that grade
+them deterministically. The result is clean reinforcement-learning signal and rigorous
+evaluation for frontier coding agents.
 
-Trained neural networks. Experimented with transformers. Shipped RAG applications and agentic workflows that solve real problems for real people.
-
-Right now I'm deep into **evals** and **observability** — figuring out how to measure if AI systems actually work and catching issues before they hit production. Always experimenting with new frameworks, always staying updated with what's actually worth using.
-
-<br>
-
-## `> ls tech-stack/`
-
-<div align="center">
-
-**languages & frameworks**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=44B78B)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=1C3C3C)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=white)
-
-**infra & tools**
-
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
-
-</div>
+Co-author of **SWE-Marathon**, a benchmark of 20 multi-hour software-engineering tasks.
 
 <br>
 
-## `> git log --oneline`
+## Focus
 
-<div align="center">
+`RL environments` &nbsp; `agent evaluation` &nbsp; `long-horizon tasks` &nbsp; `execution sandboxes` &nbsp; `model reliability`
 
-<img src="https://github-readme-stats.vercel.app/api?username=skylarkoo7&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=skylarkoo7&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="49%"/>
+## Stack
 
-</div>
+`Python` &nbsp; `PyTorch` &nbsp; `Docker` &nbsp; `Kubernetes` &nbsp; `FastAPI` &nbsp; `PostgreSQL`
 
 <br>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=skylarkoo7&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb&hide_border=true" width="98%"/>
-
-</div>
-
-<br>
-
-## `> fortune`
-
-```
-  "The best code is the code you never had to debug at 3 AM.
-   The second best is the code that debugs itself."
-                                        — me, probably
-```
-
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=skylarkoo7&style=for-the-badge&color=0d1117&label=visitors"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=skylarkoo7&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e&ring_color=8b949e" width="46%"/>
 </div>
