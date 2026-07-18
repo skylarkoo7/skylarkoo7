@@ -2,9 +2,9 @@
 
 # Neel Harsola
 
-Applied Research Engineer at Abundant
+Applied Research Engineer at Abundant (YC)
 
-**I build the environments and benchmarks that train and evaluate AI coding agents.**
+**Research on agent evals — benchmarks, harnesses, and environments for frontier coding agents.**
 
 [neelharsola.in](https://neelharsola.in) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/neelharsola) &nbsp;·&nbsp; [work.neelharsola@gmail.com](mailto:work.neelharsola@gmail.com)
 
@@ -14,18 +14,28 @@ Applied Research Engineer at Abundant
 
 ## What I do
 
-I design long-horizon software-engineering tasks — multi-hour library reproductions,
-full-stack product clones, and ML builds — and the sandboxed environments that grade
-them deterministically. The result is clean reinforcement-learning signal and rigorous
-evaluation for frontier coding agents.
+I design agent benchmarks and the sandboxed environments that grade them
+deterministically — clean reinforcement-learning signal and rigorous evaluation
+for frontier coding agents. My current focus is long-horizon autonomy: multi-hour
+library reproductions, full-stack product clones, and ML builds.
 
-Co-author of **SWE-Marathon**, a benchmark of 20 multi-hour software-engineering tasks.
+Co-author of [**SWE-Marathon**](https://www.swe-marathon.org/), a benchmark of 20
+multi-hour software-engineering tasks
+([code](https://github.com/abundant-ai/swe-marathon) &nbsp;·&nbsp; [paper](https://arxiv.org/abs/2606.07682)).
+
+<br>
+
+## On the model cards
+
+SWE-Marathon is cited in the official model cards of:
+
+🌙 **Kimi K3** &nbsp;·&nbsp; 🔥 **Grok 4.5** &nbsp;·&nbsp; 🚀 **GLM 5.2**
 
 <br>
 
 ## Focus
 
-`RL environments` &nbsp; `agent evaluation` &nbsp; `long-horizon tasks` &nbsp; `execution sandboxes` &nbsp; `model reliability`
+`agent evaluation` &nbsp; `RL environments` &nbsp; `long-horizon tasks` &nbsp; `execution sandboxes` &nbsp; `model reliability`
 
 ## Stack
 
