@@ -29,20 +29,12 @@ multi-hour software-engineering tasks
 
 SWE-Marathon is cited in the official model cards of:
 
-🌙 **Kimi K3** &nbsp;·&nbsp; 🔥 **Grok 4.5** &nbsp;·&nbsp; 🚀 **GLM 5.2**
+- 🌙 &nbsp;[**Kimi K3**](https://www.kimi.com/blog/kimi-k3) — Moonshot AI
+- 🔥 &nbsp;[**Grok 4.5**](https://x.ai/news/grok-4-5) — xAI
+- 🚀 &nbsp;[**GLM 5.2**](https://huggingface.co/zai-org/GLM-5.2) — Zhipu AI
 
 <br>
 
 ## Focus
 
 `agent evaluation` &nbsp; `RL environments` &nbsp; `long-horizon tasks` &nbsp; `execution sandboxes` &nbsp; `model reliability`
-
-## Stack
-
-`Python` &nbsp; `PyTorch` &nbsp; `Docker` &nbsp; `Kubernetes` &nbsp; `FastAPI` &nbsp; `PostgreSQL`
-
-<br>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=skylarkoo7&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e&ring_color=8b949e" width="46%"/>
-</div>
