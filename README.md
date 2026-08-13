@@ -28,7 +28,7 @@ multi-hour software-engineering tasks
 ## On the model cards
 
 SWE-Marathon is cited in the official model cards of:
-
+- ⚙️ &nbsp;[**Grok 4.6 model card**](https://media.x.ai/v1/website/card-7f81d41b.pdf)
 - 🌙 &nbsp;[**Kimi K3**](https://www.kimi.com/blog/kimi-k3) — Moonshot AI
 - 🔥 &nbsp;[**Grok 4.5**](https://x.ai/news/grok-4-5) — xAI
 - 🚀 &nbsp;[**GLM 5.2**](https://huggingface.co/zai-org/GLM-5.2) — Zhipu AI
